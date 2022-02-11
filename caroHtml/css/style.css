@@ -1,0 +1,85 @@
+
+<style type="text/css" media="screen">
+
+body{
+    background-color: red;
+}
+#pageTitle{
+    text-align: center;
+    padding: 50px;
+    background: #ff5f6d;
+    background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+    margin-bottom: 0;
+    height: 150px;;
+}
+button{
+    width: 130px !important;
+    margin-left: 10px;
+    margin: auto;
+    display: flex;
+}
+#reseaux{
+    background-color: pink;
+    height: 190px;
+    text-align: center;
+}
+#reseaux > h2{
+    margin-top: 25px;
+    color: white;
+}
+#txtReseaux{
+    background-color: pink;
+    color:white;
+}
+#imgReseaux{
+    margin-left: -64px !important;
+}
+#imgCaro{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#ContentReseaux{
+    text-align: center;
+    overflow: hidden; 
+    white-space: normal;
+    width: 95%;
+    padding: 21px;
+}
+#txtReseaux > h3{
+    padding: 30px;
+}
+#txtReseaux > button{
+    margin-left: 385px;
+}
+img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+#contact > h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#sendContact{
+    width: auto !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#navbarSupportedContent > form{
+    display: flex;
+}
+body > footer{
+    
+    background-color: #DCDCDC
+}
+
+</style>
